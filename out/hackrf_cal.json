@@ -1,0 +1,10 @@
+{
+  "offset_db": -25.27,
+  "rx_freq_hz": 915000000.0,
+  "hackrf_gain_db": 30.0,
+  "sample_rate_hz": 7680000.0,
+  "gen_freq_hz": 915200000.0,
+  "gen_level_dbm": -60.0,
+  "cable_loss_db": 0.5,
+  "made": "2026-10-08 14:13:35"
+}

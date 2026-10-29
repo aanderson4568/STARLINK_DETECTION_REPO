@@ -1,0 +1,14 @@
+# Python environment and caches
+.venv/
+__pycache__/
+*.pyc
+
+# Recordings are large (hundreds of MB each) -- keep them local.
+# Everything in out/ is ignored except the small files listed below.
+out/*
+!out/lte_matlab.cf32
+!out/hackrf_cal.json
+!out/*.png
+
+# Editor settings
+.vscode/
